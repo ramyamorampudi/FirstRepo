@@ -1,0 +1,2 @@
+This is my third master file.
+I created this file to merge files in different branches.
